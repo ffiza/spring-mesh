@@ -1,0 +1,7 @@
+TIMESTEP:               0.01  # s
+N_STEPS:                6000
+MASS:                   1.0  # kg
+AMPLITUDE:              1.0  # m
+ELASTIC_CONSTANT:       10.0  # N/m
+NATURAL_LENGTH:         0.0  # m
+PART_SEPARATION:        1.0  # m 
