@@ -7,5 +7,5 @@ Simulator of a two-dimensional mesh of springs that can only oscillate in the ve
 ## Examples
 
 <div align="center">
-    <img src="https://github.com/ffiza/springe-mesh/blob/main/images/screenshot.png?raw=true" width="650">
+    <img src="https://github.com/ffiza/spring-mesh/blob/main/images/screenshot.png?raw=true" width="650">
 </div>
