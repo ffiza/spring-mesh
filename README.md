@@ -1,3 +1,11 @@
-# Malla de masas y resortes
+<div align="center">
+    <h1>Spring Mesh Simulation</h1>
+</div>
 
-Simulador de una malla bidimensional de resortes que sólo pueden oscilar en la dirección vertical.
+Simulator of a two-dimensional mesh of springs that can only oscillate in the vertical direction.
+
+## Examples
+
+<div align="center">
+    <img src="https://github.com/ffiza/springe-mesh/blob/main/images/screenshot.png?raw=true" width="650">
+</div>
